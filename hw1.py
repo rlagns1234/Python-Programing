@@ -18,5 +18,5 @@ def get_circle_area(radius):
 #프로그램 실행
 try: 
     main()
-except Exceptionas as e:
+except Exception as e:
     print(e)
